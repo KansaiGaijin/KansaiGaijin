@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KansaiGaijin
 - 👀 I’m interested in photography, Japan, and D&D
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: jamiejoystick@gmail.com
+- 📫 How to reach me: jamie-github@kansaigaijin.com
 
 <!---
 KansaiGaijin/KansaiGaijin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
